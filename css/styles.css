@@ -16,6 +16,12 @@ h6 {
 p {
     color: #8f8f8f;
 }
+a:link,
+a:visited {
+    color: #fff;
+    text-decoration: none;
+    cursor: pointer;
+}
 
 /* Headings */
 .big-heading {
