@@ -23,6 +23,11 @@ a:visited {
     cursor: pointer;
 }
 
+img {
+    border-radius: 5px;
+    object-fit: contain;
+}
+
 /* Headings */
 .big-heading {
     font-family: "Montserrat-Black", sans-serif;
